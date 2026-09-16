@@ -7,7 +7,7 @@
 
 - Discord - [click](https://discord.gg/XWvrvxqCAk)
 
-- [guns.lol](https://guns.lol/crackerx/)
+- [guns.lol](https://guns.lol/itzcracker/)
 
 - Love Gravity, Frogies Arcade and Truffled ❤
 
