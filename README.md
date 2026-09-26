@@ -5,7 +5,7 @@
 
 - All of my projects are available at my [github](https://github.com/itzcracker/)
 
-- Discord - [click](https://discord.gg/XWvrvxqCAk)
+- Discord - [click](https://discord.gg/hvD4juhpTa)
 
 - [guns.lol](https://guns.lol/itzcracker/)
 
