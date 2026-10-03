@@ -1,5 +1,7 @@
 <h1 align="center">yoo i'm cracker</h1>
+
 programmer & developer
+
 founder of GravityOS
 
 - all of my projects are available at my [github](https://github.com/itzcracker/)
