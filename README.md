@@ -2,7 +2,7 @@
 
 programmer & developer
 
-founder of GravityOS
+founder of Nightfall
 
 - all of my projects are available at my [github](https://github.com/itzcracker/)
 
