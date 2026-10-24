@@ -10,7 +10,7 @@ founder of Nightfall
 
 - guns.lol - [click](https://guns.lol/itzcracker/)
 
-- Love GravityOS, wasm.rip, frogies arcade and truffled ❤
+- Love Nightfall, wasm.rip, frogies arcade and truffled ❤
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,js,html,css,java,ts," height="48" />
